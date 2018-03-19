@@ -1,0 +1,202 @@
+DNS measurements at a root server.,2001,conf/globecom/BrownleeCN01,1672-1676,https://doi.org/10.1109/GLOCOM.2001.965864
+A new approach to DNS security (DNSSEC).,2001,conf/ccs/AtenieseM01,86-95,http://doi.acm.org/10.1145/501983.501996
+On the Effectiveness of DNS-based Server Selection.,2001,conf/infocom/ShaikhTA01,1801-1810,https://doi.org/10.1109/INFCOM.2001.916678
+DNS performance and the effectiveness of caching.,2002,journals/ton/JungSBM02,589-603,https://doi.org/10.1109/TNET.2002.803905
+Diversity in DNS performance measures.,2002,conf/imc/ListonSZ02,19-31,http://doi.acm.org/10.1145/637201.637204
+An overview of DNS-based server selections in content distribution networks.,2003,journals/cn/PanHL03,695-711,https://doi.org/10.1016/S1389-1286(03)00293-7
+Proactive caching of DNS records: addressing a performance bottleneck.,2003,journals/cn/CohenK03,707-726,https://doi.org/10.1016/S1389-1286(02)00424-3
+Inferring relative popularity of internet applications by actively querying DNS caches.,2003,conf/imc/WillsMS03,78-90,http://doi.acm.org/10.1145/948205.948216
+Secure Distributed DNS.,2004,conf/dsn/CachinS04,423-432,https://doi.org/10.1109/DSN.2004.1311912
+Untangling the Web from DNS.,2004,conf/nsdi/WalfishB04,225-238,http://www.usenix.org/events/nsdi04/tech/walfish.html
+On the responsiveness of DNS-based network control.,2004,conf/imc/PangASKS04,21-26,http://doi.acm.org/10.1145/1028788.1028792
+An empirical study of spam traffic and the use of DNS black lists.,2004,conf/imc/JungS04,370-375,http://doi.acm.org/10.1145/1028788.1028838
+Performance of DNS as location manager for wireless systems in IP networks.,2005,conf/globecom/ReazAF05,5,https://doi.org/10.1109/GLOCOM.2005.1577649
+The effect of DNS delays on worm propagation in an IPv6 Internet.,2005,conf/infocom/KamraFMK05,2405-2414,https://doi.org/10.1109/INFCOM.2005.1498526
+Layering Public Key Distribution Over Secure DNS using Authenticated Delegation.,2005,conf/acsac/JonesBR05,409-418,https://doi.org/10.1109/CSAC.2005.35
+An Integrity Verification Scheme for DNS Zone file based on Security Impact Analysis.,2005,conf/acsac/ChandramouliR05,312-321,https://doi.org/10.1109/CSAC.2005.9
+Piggybacking related domain names to improve DNS performance.,2006,journals/cn/ShangW06,1733-1748,https://doi.org/10.1016/j.comnet.2005.06.016
+On the Use of Anycast in DNS.,2006,conf/icccn/SaratPT06,71-78,https://doi.org/10.1109/ICCCN.2006.286248
+DoX: A Peer-to-Peer Antidote for DNS Cache Poisoning Attacks.,2006,conf/icc/YuanKMC06,2345-2350,https://doi.org/10.1109/ICC.2006.255120
+A DNS Based New Route Optimization Scheme with Fast Neighbor Discovery in Mobile IPv6 Networks.,2006,conf/apnoms/ParkL06,590-593,https://doi.org/10.1007/11876601_73
+Web search engine based on DNS.,2007,journals/jnca/LiangYM07,466-478,https://doi.org/10.1016/j.jnca.2006.06.006
+Capability-based egress network access control by using DNS server.,2007,journals/jnca/SuzukiSHIK07,1275-1282,https://doi.org/10.1016/j.jnca.2006.09.009
+Enhancing DNS Resilience against Denial of Service Attacks.,2007,conf/dsn/PappasMZ07,450-459,https://doi.org/10.1109/DSN.2007.42
+Identity Trail: Covert Surveillance Using DNS.,2007,conf/pet/GuhaF07,153-166,https://doi.org/10.1007/978-3-540-75551-7_10
+An Improved TCP Migrate Scheme with DNS Handover Assistant for End-to-End Mobility.,2007,conf/icc/WuLZ07,1923-1928,https://doi.org/10.1109/ICC.2007.320
+Performance Analysis of DNS with TTL Value 0 as Location Repository in Mobile Internet.,2007,conf/wcnc/WuTL07,3250-3255,https://doi.org/10.1109/WCNC.2007.599
+Two Days in the Life of the DNS Anycast Root Servers.,2007,conf/pam/LiuHFBC07,125-134,https://doi.org/10.1007/978-3-540-71617-4_13
+Home DNS: Experiences with Seamless Remote Access to Home Services.,2007,conf/wowmom/BelimpasakisSW07,1-8,https://doi.org/10.1109/WOWMOM.2007.4351726
+Characterizing Dark DNS Behavior.,2007,conf/dimva/OberheideKM07,140-156,https://doi.org/10.1007/978-3-540-73614-1_9
+Passive Monitoring of DNS Anomalies.,2007,conf/dimva/ZdrnjaBW07,129-139,https://doi.org/10.1007/978-3-540-73614-1_8
+Efficient and Low-Cost Hardware Defense Against DNS Amplification Attacks.,2008,conf/globecom/SunLS08,2062-2066,https://doi.org/10.1109/GLOCOM.2008.ECP.397
+Bypassing Security Toolbars and Phishing Filters via DNS Poisoning.,2008,conf/globecom/Abu-NimehN08,2001-2006,https://doi.org/10.1109/GLOCOM.2008.ECP.386
+Increased DNS forgery resistance through 0x20-bit encoding: security via leet queries.,2008,conf/ccs/DagonAVJL08,211-222,http://doi.acm.org/10.1145/1455770.1455798
+Mitigating DNS DoS attacks.,2008,conf/ccs/BallaniF08,189-198,http://doi.acm.org/10.1145/1455770.1455796
+Achieving host mobility using DNS dynamic updating protocol.,2008,conf/lcn/YahyaB08,634-638,https://doi.org/10.1109/LCN.2008.4664258
+Identification of malicious web pages through analysis of underlying DNS and web server relationships.,2008,conf/lcn/SeifertWKAE08,935-941,https://doi.org/10.1109/LCN.2008.4664306
+Peeking Through the Cloud: DNS-Based Estimation and Its Applications.,2008,conf/acns/RajabMTP08,21-38,https://doi.org/10.1007/978-3-540-68914-0_2
+Context-aware clustering of DNS query traffic.,2008,conf/imc/PlonkaB08,217-230,http://doi.acm.org/10.1145/1452520.1452547
+Quantifying the operational status of the DNSSEC deployment.,2008,conf/imc/OsterweilRMZ08,231-242,http://doi.acm.org/10.1145/1452520.1452548
+Understanding implications of DNS zone provisioning.,2008,conf/imc/KalafutSG08,211-216,http://doi.acm.org/10.1145/1452520.1452546
+Impact of configuration errors on DNS robustness.,2009,journals/jsac/PappasWMLTZ09,275-290,https://doi.org/10.1109/JSAC.2009.090404
+DNS-based email sender authentication mechanisms: A critical review.,2009,journals/compsec/Herzberg09a,731-742,https://doi.org/10.1016/j.cose.2009.05.002
+Automating trusted key rollover in DNSSEC.,2009,journals/jcs/Guette09,839-854,https://doi.org/10.3233/JCS-2009-0343
+WSEC DNS: Protecting recursive DNS resolvers from poisoning attacks.,2009,conf/dsn/PerdisciALL09,3-12,https://doi.org/10.1109/DSN.2009.5270363
+Deploying and Monitoring DNS Security (DNSSEC).,2009,conf/acsac/OsterweilMZ09,429-438,https://doi.org/10.1109/ACSAC.2009.47
+Detecting Malicious Flux Service Networks through Passive Analysis of Recursive DNS Traces.,2009,conf/acsac/PerdisciCDL09,311-320,https://doi.org/10.1109/ACSAC.2009.36
+Preprocessing DNS Log Data for Effective Data Mining.,2009,conf/icc/SnyderST09,1-5,https://doi.org/10.1109/ICC.2009.5199359
+Identifying the Use of Data/Voice/Video-Based P2P Traffic by DNS-Query Behavior.,2009,conf/icc/WuHL09,1-5,https://doi.org/10.1109/ICC.2009.5199062
+Pollution Resilience for DNS Resolvers.,2009,conf/icc/KalafutG09,1-5,https://doi.org/10.1109/ICC.2009.5199342
+A Novel DNS Accelerator Design and Implementation.,2009,conf/apnoms/ZhangZXXH09,458-461,https://doi.org/10.1007/978-3-642-04492-2_52
+On Robust Covert Channels Inside DNS.,2009,conf/sec/NussbaumNR09,51-62,https://doi.org/10.1007/978-3-642-01244-0_5
+LISP-TREE: A DNS Hierarchy to Support the LISP Mapping System.,2010,journals/jsac/JakabCCSB10,1332-1343,https://doi.org/10.1109/JSAC.2010.101011
+A Centralized Monitoring Infrastructure for Improving DNS Security.,2010,conf/raid/AntonakakisDLPLB10,18-37,https://doi.org/10.1007/978-3-642-15512-3_2
+Identifying suspicious activities through DNS failure graph analysis.,2010,conf/icnp/JiangCJLZ10,144-153,https://doi.org/10.1109/ICNP.2010.5762763
+An Analysis of DepenDNS.,2010,conf/isw/AlFardanP10,31-38,https://doi.org/10.1007/978-3-642-18178-8_4
+Building a Dynamic Reputation System for DNS.,2010,conf/uss/AntonakakisPDLF10,273-290,http://www.usenix.org/events/sec10/tech/full_papers/Antonakakis.pdf
+Comparing DNS resolvers in the wild.,2010,conf/imc/AgerMSU10,15-21,http://doi.acm.org/10.1145/1879141.1879144
+An empirical study of orphan DNS servers in the internet.,2010,conf/imc/KalafutGCCM10,308-314,http://doi.acm.org/10.1145/1879141.1879182
+"Surveying DNS Wildcard Usage among the Good, the Bad, and the Ugly.",2010,conf/securecomm/KalafutGRP10,448-465,https://doi.org/10.1007/978-3-642-16161-2_26
+The Hitchhiker's Guide to DNS Cache Poisoning.,2010,conf/securecomm/SonS10,466-483,https://doi.org/10.1007/978-3-642-16161-2_27
+Touring DNS Open Houses for Trends and Configurations.,2011,journals/ton/KalafutSG11,1666-1675,https://doi.org/10.1109/TNET.2011.2130537
+Deploying Cryptography in Internet-Scale Systems: A Case Study on DNSSEC.,2011,journals/tdsc/YangOMLZ11,656-669,https://doi.org/10.1109/TDSC.2010.10
+Quantifying and Improving DNSSEC Availability.,2011,conf/icccn/DeccioSKM11,1-7,https://doi.org/10.1109/ICCCN.2011.6005908
+Bringing Local DNS Servers Close to Their Clients.,2011,conf/globecom/QianRA11,1-6,https://doi.org/10.1109/GLOCOM.2011.6134074
+The effects of Active Queue Management and Explicit Congestion Notification on DNS traffic.,2011,conf/iscc/HarhalakisSV11,906-911,https://doi.org/10.1109/ISCC.2011.5983957
+Hint-driven DNS resolution.,2011,conf/iscc/FerreiraMA11,912-915,https://doi.org/10.1109/ISCC.2011.5983958
+Public DNS system and Global Traffic Management.,2011,conf/infocom/HuangMLG11,2615-2623,https://doi.org/10.1109/INFCOM.2011.5935088
+"Privacy-Preserving DNS: Analysis of Broadcast, Range Queries and Mix-Based Protection Methods.",2011,conf/esorics/FederrathFHP11,665-683,https://doi.org/10.1007/978-3-642-23822-2_36
+Improving robustness of DNS to software vulnerabilities.,2011,conf/acsac/KhurshidKC11,177-186,http://doi.acm.org/10.1145/2076732.2076758
+DNS-Based Solution for Operator Control of Selected IP Traffic Offload.,2011,conf/icc/TalebSS11,1-5,https://doi.org/10.1109/icc.2011.5963137
+Effective DNS server fingerprinting method.,2011,conf/apnoms/KimJ11,1-4,https://doi.org/10.1109/APNOMS.2011.6076955
+Protecting against DNS Reflection Attacks with Bloom Filters.,2011,conf/dimva/PaolaL11,1-16,https://doi.org/10.1007/978-3-642-22424-9_1
+Monitoring the initial DNS behavior of malicious domains.,2011,conf/imc/HaoFP11,269-278,http://doi.acm.org/10.1145/2068816.2068842
+Winning with DNS Failures: Strategies for Faster Botnet Detection.,2011,conf/securecomm/YadavR11,446-459,https://doi.org/10.1007/978-3-642-31909-9_26
+Unilateral Antidotes to DNS Poisoning.,2011,conf/securecomm/HerzbergS11,319-336,https://doi.org/10.1007/978-3-642-31909-9_18
+Delay Fast Packets (DFP): Prevention of DNS Cache Poisoning.,2011,conf/securecomm/Tzur-DavidLDA11,303-318,https://doi.org/10.1007/978-3-642-31909-9_17
+Detecting Algorithmically Generated Domain-Flux Attacks With DNS Traffic Analysis.,2012,journals/ton/YadavRRR12,1663-1677,https://doi.org/10.1109/TNET.2012.2184552
+Early Detection of Malicious Flux Networks via Large-Scale Passive DNS Traffic Analysis.,2012,journals/tdsc/PerdisciCG12,714-726,https://doi.org/10.1109/TDSC.2012.35
+Quantifying DNS namespace influence.,2012,journals/cn/DeccioSKM12,780-794,https://doi.org/10.1016/j.comnet.2011.11.005
+Identifying botnets by capturing group activities in DNS traffic.,2012,journals/cn/ChoiL12,20-33,https://doi.org/10.1016/j.comnet.2011.07.018
+IRONSIDES: DNS with no single-packet denial of service or remote code execution vulnerabilities.,2012,conf/globecom/CarlisleF12,839-844,https://doi.org/10.1109/GLOCOM.2012.6503217
+Towards active measurement for DNS query behavior of botnets.,2012,conf/globecom/MaLTG12,845-849,https://doi.org/10.1109/GLOCOM.2012.6503218
+Large-scale DNS data analysis.,2012,conf/ccs/Dagon12,1054-1055,http://doi.acm.org/10.1145/2382196.2382325
+Revisiting DNS and WHOIS in the cloud era.,2012,conf/ccs/Kaliski12,95-96,http://doi.acm.org/10.1145/2381913.2381929
+Content retrieval using cloud-based DNS.,2012,conf/infocom/KhoslaFH12,1-6,https://doi.org/10.1109/INFCOMW.2012.6193491
+Security of Patched DNS.,2012,conf/esorics/HerzbergS12,271-288,https://doi.org/10.1007/978-3-642-33167-1_16
+Separating identifier from locator with extended DNS.,2012,conf/icc/WangWXY12,2747-2751,https://doi.org/10.1109/ICC.2012.6363725
+"Behavior of DNS' Top Talkers, a .com/.net View.",2012,conf/pam/OsterweilMDPM12,211-220,https://doi.org/10.1007/978-3-642-28537-0_21
+DNS to the rescue: discerning content and services in a tangled web.,2012,conf/imc/BermudezMMKN12,413-426,http://doi.acm.org/10.1145/2398776.2398819
+"Content delivery and the natural evolution of DNS: remote dns trends, performance issues and alternative solutions.",2012,conf/imc/OttoSRB12,523-536,http://doi.acm.org/10.1145/2398776.2398831
+DNS for Massive-Scale Command and Control.,2013,journals/tdsc/XuBSY13,143-153,https://doi.org/10.1109/TDSC.2013.10
+Behavior-based tracking: Exploiting characteristic patterns in DNS traffic.,2013,journals/compsec/HerrmannBF13,17-33,https://doi.org/10.1016/j.cose.2013.03.012
+DNS amplification attack revisited.,2013,journals/compsec/AnagnostopoulosKKLG13,475-485,https://doi.org/10.1016/j.cose.2013.10.001
+Resolvers Revealed: Characterizing DNS Resolvers and their Clients.,2013,journals/toit/ShueK13,14:1-14:17,http://doi.acm.org/10.1145/2499926.2499928
+ROVER: Route Origin Verification Using DNS.,2013,conf/icccn/GerschM13,1-9,https://doi.org/10.1109/ICCCN.2013.6614187
+A DNS protocol - based Service Discovery architecture for disaster response systems.,2013,conf/iscc/HormatiBGK13,366-371,https://doi.org/10.1109/ISCC.2013.6754974
+Detection of Fast-Flux Networks using various DNS feature sets.,2013,conf/iscc/CelikO13,868-873,https://doi.org/10.1109/ISCC.2013.6755058
+Basic classifiers for DNS tunneling detection.,2013,conf/iscc/AielloMP13,880-885,https://doi.org/10.1109/ISCC.2013.6755060
+Investigating DNS traffic anomalies for malicious activities.,2013,conf/dsn/YarochkinKHNKC13,1-7,https://doi.org/10.1109/DSNW.2013.6615506
+A lightweight solution to remote DNS.,2013,conf/ipccc/WangH13b,1-3,https://doi.org/10.1109/PCCC.2013.6742757
+Predicting DNS Server Load Distribution.,2013,conf/ipccc/WangH13a,1-2,https://doi.org/10.1109/PCCC.2013.6742756
+"Trapping botnets by DNS failure graphs: Validation, extension and application to a 3G network.",2013,conf/infocom/BarPR13,3159-3164,https://doi.org/10.1109/INFCOM.2013.6567131
+Modeling DNS agility with DNSMap.,2013,conf/infocom/BergerG13,3153-3158,https://doi.org/10.1109/INFCOM.2013.6567130
+"Trapping botnets by DNS failure graphs: Validation, extension and application to a 3G network.",2013,conf/infocom/BarPR13a,393-398,https://doi.org/10.1109/INFCOMW.2013.6562863
+Check-Repeat: A new method of measuring DNSSEC validating resolvers.,2013,conf/infocom/YuWL013a,381-386,https://doi.org/10.1109/INFCOMW.2013.6562861
+Modeling DNS agility with DNSMap.,2013,conf/infocom/BergerG13a,387-392,https://doi.org/10.1109/INFCOMW.2013.6562862
+A technique for counting DNSSEC validators.,2013,conf/infocom/FukudaSM13,80-84,https://doi.org/10.1109/INFCOM.2013.6566739
+Check-Repeat: A new method of measuring DNSSEC validating resolvers.,2013,conf/infocom/YuWL013,3147-3152,https://doi.org/10.1109/INFCOM.2013.6567129
+Vulnerable Delegation of DNS Resolution.,2013,conf/esorics/HerzbergS13,219-236,https://doi.org/10.1007/978-3-642-40203-6_13
+Multi-dimensional aggregation for DNS monitoring.,2013,conf/lcn/DolbergFE13,390-398,https://doi.org/10.1109/LCN.2013.6761271
+Boosting practicality of DNS cache probing: A general estimator based on Bayesian forecasting.,2013,conf/icc/LiMTG13,2540-2544,https://doi.org/10.1109/ICC.2013.6654916
+Exploiting DNS traffic to rank internet domains.,2013,conf/icc/DeriMMG13,1325-1329,https://doi.org/10.1109/ICCW.2013.6649442
+Measuring Query Latency of Top Level DNS Servers.,2013,conf/pam/LiangJDLW13,145-154,https://doi.org/10.1007/978-3-642-36516-4_15
+Measuring Occurrence of DNSSEC Validation.,2013,conf/pam/WanderW13,125-134,https://doi.org/10.1007/978-3-642-36516-4_13
+Measuring the Practical Impact of DNSSEC Deployment.,2013,conf/uss/LianRSS13,573-588,https://www.usenix.org/conference/usenixsecurity13/technical-sessions/paper/lian
+Eradicating DNS Rebinding with the Extended Same-origin Policy.,2013,conf/uss/JohnsLS13,621-636,https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/johns
+Practical Comprehensive Bounds on Surreptitious Communication over DNS.,2013,conf/uss/PaxsonCJRSSSTVW13,17-32,https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/paxson
+Calibration of DNS delegation misleading.,2013,conf/apnoms/Wang13,1-3,http://ieeexplore.ieee.org/document/6665228/
+Exploring EDNS-client-subnet adopters in your free time.,2013,conf/imc/StreibeltBCSF13,305-312,http://doi.acm.org/10.1145/2504730.2504767
+On measuring the client-side DNS infrastructure.,2013,conf/imc/SchompCRA13,77-90,http://doi.acm.org/10.1145/2504730.2504734
+PREFETCHing to Overcome DNSSEC Performance Issue on Large Resolving Platform.,2013,conf/trustcom/MigaultSFHL13,694-703,https://doi.org/10.1109/TrustCom.2013.84
+DNSRadar: Outsourcing Malicious Domain Detection Based on Distributed Cache-Footprints.,2014,journals/tifs/MaZTLTG14,1906-1921,https://doi.org/10.1109/TIFS.2014.2357251
+Exposure: A Passive DNS Analysis Service to Detect and Report Malicious Domains.,2014,journals/tissec/BilgeSBKK14,14:1-14:28,http://doi.acm.org/10.1145/2584679
+DNStamp: Short-lived trusted timestamping.,2014,journals/cn/NeumannHO14,208-224,https://doi.org/10.1016/j.comnet.2014.02.016
+DNSSEC for cyber forensics.,2014,journals/ejisec/ShulmanW14,16,https://doi.org/10.1186/s13635-014-0016-2
+Scaling the number of DNS root servers with Internet.,2014,conf/globecom/LeeYC14,248-253,https://doi.org/10.1109/GLOCOMW.2014.7063439
+DNS Resolvers Considered Harmful.,2014,conf/hotnets/SchompAR14,16:1-16:7,http://doi.acm.org/10.1145/2670518.2673881
+DNS Noise: Measuring the Pervasiveness of Disposable Domains in Modern DNS Traffic.,2014,conf/dsn/ChenAPNDL14,598-609,https://doi.org/10.1109/DSN.2014.61
+POSTER: On the Capability of DNS Cache Poisoning Attacks.,2014,conf/ccs/Wang14,1523-1525,http://doi.acm.org/10.1145/2660267.2662363
+POSTER: On the Resilience of DNS Infrastructure.,2014,conf/ccs/ShulmanE14,1499-1501,http://doi.acm.org/10.1145/2660267.2662376
+iDNS: Enabling information centric networking through The DNS.,2014,conf/infocom/SevillaMG14,476-481,https://doi.org/10.1109/INFCOMW.2014.6849278
+EncDNS: A Lightweight Privacy-Preserving Name Resolution Service.,2014,conf/esorics/HerrmannFLF14,37-55,https://doi.org/10.1007/978-3-319-11203-9_3
+Less is more: cipher-suite negotiation for DNSSEC.,2014,conf/acsac/HerzbergSC14,346-355,http://doi.acm.org/10.1145/2664243.2664283
+DNS authentication as a service: preventing amplification attacks.,2014,conf/acsac/HerzbergS14,356-365,http://doi.acm.org/10.1145/2664243.2664281
+Detection of malicious payload distribution channels in DNS.,2014,conf/icc/KaraBMYD14,853-858,https://doi.org/10.1109/ICC.2014.6883426
+Fragmentation Considered Leaking: Port Inference for DNS Poisoning.,2014,conf/acns/ShulmanW14,531-548,https://doi.org/10.1007/978-3-319-07536-5_31
+Towards Forensic Analysis of Attacks with DNSSEC.,2014,conf/sp/ShulmanW14,69-76,https://doi.org/10.1109/SPW.2014.20
+Assessing DNS Vulnerability to Record Injection.,2014,conf/pam/SchompCRA14,214-223,https://doi.org/10.1007/978-3-319-04918-2_21
+Proxy support for service discovery using mDNS/DNS-SD in low power networks.,2014,conf/wowmom/StolikjVCL14,1-6,https://doi.org/10.1109/WoWMoM.2014.6918925
+Evaluating the Security of a DNS Query Obfuscation Scheme for Private Web Surfing.,2014,conf/sec/HerrmannMF14,205-219,https://doi.org/10.1007/978-3-642-55415-5_17
+DNSSEC and its potential for DDoS attacks: a comprehensive measurement study.,2014,conf/imc/Rijswijk-DeijSP14,449-460,http://doi.acm.org/10.1145/2663716.2663731
+Behind the Curtain: Cellular DNS and Content Replica Selection.,2014,conf/imc/RulaB14,59-72,http://doi.acm.org/10.1145/2663716.2663734
+Adding Privacy to Multicast DNS Service Discovery.,2014,conf/trustcom/KaiserW14,809-816,https://doi.org/10.1109/TrustCom.2014.107
+Emergency Key Rollover in DNSSEC.,2014,conf/trustcom/WangX14,598-604,https://doi.org/10.1109/TrustCom.2014.76
+Examining the effectiveness of phishing filters against DNS based phishing attacks.,2015,journals/imcs/Purkait15,333-346,https://doi.org/10.1108/ICS-02-2013-0009
+On the ground truth problem of malicious DNS traffic analysis.,2015,journals/compsec/StevanovicPDRB15,142-158,https://doi.org/10.1016/j.cose.2015.09.004
+Accurate DNS query characteristics estimation via active probing.,2015,journals/jnca/MaZLLTGLT15,72-84,https://doi.org/10.1016/j.jnca.2014.09.016
+Inferring Popularity of Domain Names with DNS Traffic: Exploiting Cache Timeout Heuristics.,2015,conf/globecom/ShimodaISTISTTM15,1-6,https://doi.org/10.1109/GLOCOM.2014.7417638
+A Revisit of DNS Kaminsky Cache Poisoning Attacks.,2015,conf/globecom/Wang15,1-6,https://doi.org/10.1109/GLOCOM.2014.7417017
+Large-scale active measurements of DNS entries related to e-mail system security.,2015,conf/icc/GojmeracZKS15,7426-7432,https://doi.org/10.1109/ICC.2015.7249513
+On the DNS Deployment of Modern Web Services.,2015,conf/icnp/HaoWSS15,100-110,https://doi.org/10.1109/ICNP.2015.37
+Connection-Oriented DNS to Improve Privacy and Security.,2015,conf/sp/ZhuHHWMS15,171-186,https://doi.org/10.1109/SP.2015.18
+Characterizing Optimal DNS Amplification Attacks and Effective Mitigation.,2015,conf/pam/MacFarlandSK15,15-27,https://doi.org/10.1007/978-3-319-15509-8_2
+~Open Resolvers: Understanding the Origins of Anomalous Open DNS Resolvers.,2015,conf/pam/KaizerG15,3-14,https://doi.org/10.1007/978-3-319-15509-8_1
+Detecting Malicious Activity with DNS Backscatter.,2015,conf/imc/FukudaH15,197-210,http://doi.acm.org/10.1145/2815675.2815706
+Going Wild: Large-Scale Classification of Open DNS Resolvers.,2015,conf/imc/KuhrerHBRH15,355-368,http://doi.acm.org/10.1145/2815675.2815683
+You Are How You Query: Deriving Behavioral Fingerprints from DNS Traffic.,2015,conf/securecomm/KimZ15,348-366,https://doi.org/10.1007/978-3-319-28865-9_19
+Reexamining DNS From a Global Recursive Resolver Perspective.,2016,journals/ton/GaoYJCPGD16,43-57,https://doi.org/10.1109/TNET.2014.2358637
+PsyBoG: A scalable botnet detection method for large-scale DNS traffic.,2016,journals/cn/KwonLLP16,48-73,https://doi.org/10.1016/j.comnet.2015.12.008
+Mining agile DNS traffic using graph analysis for cybercrime detection.,2016,journals/cn/BergerDGP16,28-44,https://doi.org/10.1016/j.comnet.2016.02.009
+A study of the impact of DNS resolvers on CDN performance using a causal approach.,2016,journals/cn/HoursBLFM16,200-210,https://doi.org/10.1016/j.comnet.2016.06.023
+Detecting domain-flux botnet based on DNS traffic features in managed network.,2016,journals/scn/TruongC16,2338-2347,https://doi.org/10.1002/sec.1495
+"A High-Performance, Scalable Infrastructure for Large-Scale Active DNS Measurements.",2016,journals/jsac/Rijswijk-DeijJS16,1877-1888,https://doi.org/10.1109/JSAC.2016.2558918
+Dealing with temporary domain name issues in the DNS.,2016,conf/iscc/YuchiLP16,778-783,https://doi.org/10.1109/ISCC.2016.7543831
+SDNShield: Reconciliating Configurable Application Permissions for SDN App Markets.,2016,conf/dsn/WenYCHWLC16,121-132,https://doi.org/10.1109/DSN.2016.20
+All Your DNS Records Point to Us: Understanding the Security Threats of Dangling DNS Records.,2016,conf/ccs/LiuHW16,1414-1425,http://doi.acm.org/10.1145/2976749.2978387
+Tracked Without a Trace: Linking Sessions of Users by Unsupervised Learning of Patterns in Their DNS Traffic.,2016,conf/ccs/KirchlerHLK16,23-34,http://doi.acm.org/10.1145/2996758.2996770
+Discovering Malicious Domains through Passive DNS Data Graph Analysis.,2016,conf/ccs/KhalilYG16,663-674,http://doi.acm.org/10.1145/2897845.2897877
+Enabling Network Security Through Active DNS Datasets.,2016,conf/raid/KountourasKLCND16,188-208,https://doi.org/10.1007/978-3-319-45719-2_9
+Towards a Model of DNS Client Behavior.,2016,conf/pam/SchompRA16,263-275,https://doi.org/10.1007/978-3-319-30505-9_20
+Detecting DNS Root Manipulation.,2016,conf/pam/JonesFPWA16,276-288,https://doi.org/10.1007/978-3-319-30505-9_21
+The Ever-Changing Labyrinth: A Large-Scale Analysis of Wildcard DNS Powered Blackhat SEO.,2016,conf/uss/DuYLDZ16,245-262,https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/du
+DNS recursive server health evaluation model.,2016,conf/apnoms/LuLZS16,1-4,https://doi.org/10.1109/APNOMS.2016.7737281
+Anycast vs. DDoS: Evaluating the November 2015 Root DNS Event.,2016,conf/imc/MouraSHVMWH16,255-270,http://dl.acm.org/citation.cfm?id=2987446
+Zone Poisoning: The How and Where of Non-Secure DNS Dynamic Updates.,2016,conf/imc/KorczynskiKE16,271-278,http://dl.acm.org/citation.cfm?id=2987477
+The Performance Impact of Elliptic Curve Cryptography on DNSSEC Validation.,2017,journals/ton/Rijswijk-DeijHS17,738-750,https://doi.org/10.1109/TNET.2016.2605767
+"Leakage of .onion at the DNS Root: Measurements, Causes, and Countermeasures.",2017,journals/ton/MohaisenR17,3059-3072,http://doi.ieeecomputersociety.org/10.1109/TNET.2017.2717965
+Detecting Malicious Activity With DNS Backscatter Over Time.,2017,journals/ton/FukudaHQ17,3203-3218,http://doi.ieeecomputersociety.org/10.1109/TNET.2017.2724506
+The best bang for the byte: Characterizing the potential of DNS amplification attacks.,2017,journals/cn/MacFarlandSK17,12-21,https://doi.org/10.1016/j.comnet.2017.02.007
+Deriving and measuring DNS-based fingerprints.,2017,journals/istr/KimZ17,32-42,https://doi.org/10.1016/j.jisa.2017.07.006
+Enc-DNS-HTTP: Utilising DNS Infrastructure to Secure Web Browsing.,2017,journals/scn/HussainJHAAI17,9479476:1-9479476:15,https://doi.org/10.1155/2017/9479476
+Congestion-Aware DNS for Integrated Cellular and Wi-Fi Networks.,2017,journals/jsac/CheungHHS17,1269-1281,https://doi.org/10.1109/JSAC.2017.2687383
+DBod: Clustering and detecting DGA-based botnets using DNS traffic analysis.,2017,journals/compsec/WangLCC17,1-15,https://doi.org/10.1016/j.cose.2016.10.001
+NDNS: A DNS-Like Name Service for NDN.,2017,conf/icccn/AfanasyevJYTXM017,1-9,https://doi.org/10.1109/ICCCN.2017.8038461
+SDNScore: A statistical defense mechanism against DDoS attacks in SDN environment.,2017,conf/iscc/KalkanGA17,669-675,https://doi.org/10.1109/ISCC.2017.8024605
+Counting in the Dark: DNS Caches Discovery and Enumeration in the Internet.,2017,conf/dsn/KleinSW17,367-378,https://doi.org/10.1109/DSN.2017.63
+POSTER: X-Ray Your DNS.,2017,conf/ccs/KleinKPSW17,2519-2521,http://doi.acm.org/10.1145/3133956.3138821
+One Key to Sign Them All Considered Vulnerable: Evaluation of DNSSEC in the Internet.,2017,conf/nsdi/ShulmanW17,131-144,https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/shulman
+Internet-wide study of DNS cache injections.,2017,conf/infocom/KleinSW17,1-9,https://doi.org/10.1109/INFOCOM.2017.8057202
+Preventing DNS Amplification Attacks Using the History of DNS Queries with SDN.,2017,conf/esorics/KimLCAJK17,135-152,https://doi.org/10.1007/978-3-319-66399-9_8
+Short Paper: On Deployment of DNS-Based Security Enhancements.,2017,conf/fc/SzalachowskiP17,424-433,https://doi.org/10.1007/978-3-319-70972-7_24
+Lean On Me: Mining Internet Service Dependencies From Large-Scale DNS Data.,2017,conf/acsac/DellAmicoBKEV17,449-460,http://doi.acm.org/10.1145/3134600.3134637
+Something from Nothing (There): Collecting Global IPv6 Datasets from DNS.,2017,conf/pam/FiebigBHKV17,30-43,https://doi.org/10.1007/978-3-319-54328-4_3
+"A Longitudinal, End-to-End View of the DNSSEC Ecosystem.",2017,conf/uss/ChungR0CLMMW17,1307-1322,https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chung
+Global Measurement of DNS Manipulation.,2017,conf/uss/PearceJLEFWP17,307-323,https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/pearce
+Tracking You through DNS Traffic: Linking User Sessions by Clustering with Dirichlet Mixture Model.,2017,conf/mswim/SunXZK17,303-310,http://doi.acm.org/10.1145/3127540.3127567
+Application identification system for SDN QoS based on machine learning and DNS responses.,2017,conf/apnoms/HuangLLCCH17,407-410,https://doi.org/10.1109/APNOMS.2017.8094160
+Recursives in the wild: engineering authoritative DNS servers.,2017,conf/imc/MullerMSH17,489-495,http://doi.acm.org/10.1145/3131365.3131366
+Understanding the role of registrars in DNSSEC deployment.,2017,conf/imc/ChungRCLMMW17,369-383,http://doi.acm.org/10.1145/3131365.3131373
+Detecting DNS Tunnel through Binary-Classification Based on Behavior Features.,2017,conf/trustcom/LiuLZXCP17,339-346,https://doi.org/10.1109/Trustcom/BigDataSE/ICESS.2017.256
+Dissecting DNS Stakeholders in Mobile Networks.,2017,conf/conext/AlmeidaFPVV17,28-34,http://doi.acm.org/10.1145/3143361.3143375
+Identifying and Analyzing Broadband Internet Reverse DNS Names.,2017,conf/conext/LeeS17,35-40,http://doi.acm.org/10.1145/3143361.3143392

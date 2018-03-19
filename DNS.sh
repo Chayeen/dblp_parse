@@ -1,0 +1,20 @@
+python3 filtercontent.py DNS,2017
+python3 filtercontent.py DNS,2016
+python3 filtercontent.py DNS,2015
+python3 filtercontent.py DNS,2014
+python3 filtercontent.py DNS,2013
+python3 filtercontent.py DNS,2012
+python3 filtercontent.py DNS,2011
+python3 filtercontent.py DNS,2010
+python3 filtercontent.py DNS,2009
+python3 filtercontent.py DNS,2008
+python3 filtercontent.py DNS,2007
+python3 filtercontent.py DNS,2006
+python3 filtercontent.py DNS,2005
+python3 filtercontent.py DNS,2004
+python3 filtercontent.py DNS,2003
+python3 filtercontent.py DNS,2002
+python3 filtercontent.py DNS,2001
+python3 filtercontent.py DNS,2000
+cat DNS_* > DNSafter2000all.csv
+rm -rf DNS_*
