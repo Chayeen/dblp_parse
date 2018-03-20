@@ -18,6 +18,7 @@ In this project, dblp.dtd and dblp.xml.gz were downloaded at Jan 18, 2018. You c
 5. __filtercontent.py__: Its input file is __intreccf.txt__. Its function is to filter articles by searching one keyword in title or the year of articles. It provides an interface to receive keyword and year as parameters. Its output file name format is "keyword_year.csv", e.g. "DNS_2017.csv". The command is just like `python3 filtercontent.py DNS,2017`.
 6. __DNS.sh__: It's a script for receiving articles in several years. Its input file is __filtercontent.py__. Its function is to receiving articles which keyword is "DNS" and year interval is from 2000 to 2017. Its output file is __DNSafter2000all.csv__
 7. __DNSafter2000all.csv__: It's the final output file, including all recomended articles to read.
+8. __intreccf.tar.bz2__: It's the compressed version of __intreccf.txt__.
 
 dblp.dtd & dblp.xml -> dblpparse.py ->after2000all.txt
 
