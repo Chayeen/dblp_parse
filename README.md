@@ -33,4 +33,7 @@ Support Python3.
 
 # Command
 `python3 filtercontent.py DNS,2017`
+
+`sed "s/DNS/domain/g" DNS.sh > domain.sh`
+
 You can replace keyword "DNS" to any one word. Don't support serveral keywords now.
